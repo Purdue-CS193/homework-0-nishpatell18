@@ -1,3 +1,9 @@
+# Nishad's First CS193 Homework
+- Our professor teaches the subject very well.
+- I get to learn a lot about terminal.
+- The class is collaborative.
+- I like the venue where the class takes place, its quite big.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
